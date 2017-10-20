@@ -8,6 +8,10 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
+gem 'react_on_rails', '~> 9.0.1'
+gem "webpacker"
+gem 'rainbow', '~> 2.2.2'
+
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
 # Use Puma as the app server
