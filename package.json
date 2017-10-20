@@ -1,5 +1,7 @@
 {
   "name": "keto-track-ROR",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "react-on-rails": "^10.0.0"
+  }
 }
